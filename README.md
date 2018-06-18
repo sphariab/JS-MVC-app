@@ -4,3 +4,4 @@ This is small app on vanilla JS with mvc structure and a possibility to search, 
 users based on user pageviews and mark them with medal images.
 
 Any javascript library was not used.
+
